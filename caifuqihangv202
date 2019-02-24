@@ -8,7 +8,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>https://raw.githubusercontent.com/wangjiaxiaoge/app_caifuqihang/master/01.ipa</string>
+                    <string>https://raw.githubusercontent.com/wangjiaxiaoge/app_caifuqihang/master/02.ipa</string>
                 </dict>
                  <dict>
                     <key>kind</key>
@@ -30,7 +30,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.ns.caifuqihang</string>
+                <string>caifuqihang</string>
                 <key>bundle-version</key>
                 <string>1.0124</string>
                 <key>kind</key>
