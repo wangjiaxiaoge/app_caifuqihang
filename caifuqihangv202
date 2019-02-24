@@ -30,7 +30,7 @@
             <key>metadata</key>
             <dict>
                 <key>bundle-identifier</key>
-                <string>com.caifuqihang</string>
+                <string>caifuqihang</string>
                 <key>bundle-version</key>
                 <string>1.00</string>
                 <key>kind</key>
